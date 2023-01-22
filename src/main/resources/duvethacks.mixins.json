@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.sylv.duvethacks.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "Mixin_NetworkedClientPlayerEntity"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

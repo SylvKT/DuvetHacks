@@ -1,18 +1,18 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "de.olivermakesco",
-		"id": "b10_01mod",
+		"group": "me.sylv",
+		"id": "duvethacks",
 		"version": "${version}",
 		"metadata": {
-			"name": "Beta 1.0_01 Mod",
-			"description": "A mod for Beta 1.0_01",
+			"name": "DuvetHacks",
+			"description": "absolutely not a hack",
 			"contributors": {
-				"DuvetMC": "Owner"
+				"SylvKT": "Owner"
 			},
 			"contact": {
-				"issues": "https://github.com/DuvetMC/b1.0mod/issues",
-				"sources": "https://github.com/DuvetMC/b1.0mod"
+				"issues": "https://github.com/SylvKT/DuvetHacks/issues",
+				"sources": "https://github.com/SylvKT/DuvetHacks"
 			},
 			"icon": "assets/example_mod/icon.png"
 		},
@@ -26,5 +26,5 @@
 			}
 		]
 	},
-	"mixin": "b1.0_01mod.mixins.json"
+	"mixin": "duvethacks.mixins.json"
 }
